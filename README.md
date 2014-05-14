@@ -1,7 +1,7 @@
 PCL_RepairUtil
 ==============
 
-Small util that returns support of some PCL profiles removed in Visual Studio (for ex. Profile104 for WinPhone 7.x). 
+Small util that returns support of some PCL profiles removed in Visual Studio 2013 (for ex. Profile104 for WinPhone 7.x). 
 
 To run:
 
